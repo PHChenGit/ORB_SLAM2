@@ -22,3 +22,12 @@ build/
 *~
 lib/
 
+cmake-build-debug/
+dataset/
+.idea/
+dataset/*/
+!dataset/*.zip
+!dataset/*.tar.gz
+!dataset/*.tgz
+
+
